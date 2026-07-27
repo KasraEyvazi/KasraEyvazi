@@ -18,7 +18,7 @@
 
 ---
 
-<h3 align="center">👨‍💻 About</h3>
+<h3 align="center">Know About Me</h3>
 
 <p align="center">
   Computer Engineering student focused on software development and web technologies.
@@ -30,7 +30,7 @@
 
 ---
 
-<h3 align="center">⚙️ Technical Skills</h3>
+<h3 align="center">Technical Skills</h3>
 
 <br>
 
