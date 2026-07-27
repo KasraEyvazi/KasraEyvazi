@@ -1,7 +1,7 @@
 <h1 align="center">Kasra Eyvazi</h1>
 
 <p align="center">
- <strong>Computer Engineering Student</strong> • Web Developer • Junior Python Developer 
+  <strong>Computer Engineering Student</strong> • Web Developer • Junior Python Developer
 </p>
 
 <p align="center">
@@ -21,16 +21,18 @@
 <h3 align="center">👨‍💻 About</h3>
 
 <p align="center">
-Computer Engineering student focused on software development and web technologies.
-<br>
-Interested in expanding my technical skills and gaining professional experience in the IT field.
-<br>
-🇩🇪 Planning to apply for an IT Ausbildung in Germany.
+  Computer Engineering student focused on software development and web technologies.
+  <br>
+  Interested in expanding my technical skills and gaining professional experience in the IT field.
+  <br>
+  🇩🇪 Planning to apply for an IT Ausbildung in Germany.
 </p>
 
 ---
 
-<h3 align="center">⚙️ Technical Skills</h3><br>
+<h3 align="center">⚙️ Technical Skills</h3>
+
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql,git,github,linux" />
