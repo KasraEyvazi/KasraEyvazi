@@ -24,8 +24,6 @@
   Computer Engineering student focused on software development and web technologies.
   <br>
   Interested in expanding my technical skills and gaining professional experience in the IT field.
-  <br>
-  🇩🇪 Planning to apply for an IT Ausbildung in Germany.
 </p>
 
 ---
